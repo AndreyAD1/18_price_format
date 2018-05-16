@@ -1,7 +1,7 @@
 # Price Formatter
 
-This program gets a string containing a number and returns this
-number in the comfortable to read format.
+This program gets a string containing a number and returns the
+string with the number in comfortable to read format.
 
 # How to Install
 
