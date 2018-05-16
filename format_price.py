@@ -3,7 +3,7 @@ import argparse
 
 def get_console_arguments():
     parser = argparse.ArgumentParser()
-    parser.add_argument('price', help='Enter a price.')
+    parser.add_argument('price', type=float, help='Enter a price.')
     arguments = parser.parse_args()
     return arguments
 
