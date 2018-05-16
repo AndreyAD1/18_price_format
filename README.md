@@ -22,7 +22,7 @@ Windows usage is the same.
 
 The input parameter of **`format_price`** function
 should be a number or a string with a number. In case input 
-parameter has other type, the function will return **`None`**.
+parameter has the other type, the function will return **`None`**.
 
 Using program as Python module:
 ```python
