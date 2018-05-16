@@ -21,7 +21,7 @@ $ python format_price.py 1234567.98701
 Windows usage is the same.
 
 The input parameter of **`format_price`** function
-should be a number or a string with a number. In case input 
+should be a number or a string with a number. In case the input 
 parameter has the other type, the function will return **`None`**.
 
 Using program as Python module:
